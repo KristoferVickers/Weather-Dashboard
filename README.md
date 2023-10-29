@@ -23,7 +23,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ## Screen Shot: 
-assets\images\image.png
+<img src="assets\images\image.png">
 
 ## Sources:
 
